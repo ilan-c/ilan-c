@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mylanii.
+- I am Python Backend dev. stack - DJANGO/ DRF/ PostgreSql
+- 📚 I’m currently learning an advanced level of (REDIS/ DOCKER/ JS)
+- 👨‍💻 At the moment I am writing a web project which has all chances to be a successful commercial tool on the Irish market. 
